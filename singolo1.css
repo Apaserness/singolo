@@ -1,0 +1,607 @@
+/* main */
+
+
+position: absolute;
+width: 1020px;
+height: 1195px;
+
+background: #F2F2F2;
+
+
+/* Panel1 */
+
+
+position: absolute;
+width: 1020px;
+height: 95px;
+
+background: #2D303A;
+
+
+/* Shadowy */
+
+
+position: absolute;
+width: 1020px;
+height: 6px;
+
+background: #323746;
+
+
+/* Panel2WithPics */
+
+
+position: absolute;
+width: 1020px;
+height: 600px;
+
+background: #F06C64;
+
+
+/* Panel3White */
+
+
+position: absolute;
+width: 1020px;
+height: 500px;
+
+background: #F2F2F2;
+
+
+/* vert */
+
+
+position: absolute;
+width: 240px;
+height: 483px;
+
+
+
+/* hor */
+
+
+position: absolute;
+width: 240px;
+height: 484px;
+
+transform: rotate(90deg);
+
+
+/* Mask Group */
+
+
+position: absolute;
+width: 333px;
+height: 187.5px;
+
+
+
+/* SERVICES */
+
+
+position: absolute;
+width: 54px;
+height: 14px;
+
+font-family: Lato;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 14px;
+
+color: #FFFFFF;
+
+
+
+/* PORTFOLIO */
+
+
+position: absolute;
+width: 67px;
+height: 14px;
+
+font-family: Lato;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 14px;
+
+color: #FFFFFF;
+
+
+
+/* HOME */
+
+
+position: absolute;
+width: 37px;
+height: 14px;
+
+font-family: Lato;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 14px;
+
+color: #F06C64;
+
+
+
+/* CONTACT */
+
+
+position: absolute;
+width: 56px;
+height: 14px;
+
+font-family: Lato;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 14px;
+
+color: #FFFFFF;
+
+
+
+/* * */
+
+
+position: absolute;
+width: 11px;
+height: 29px;
+
+font-family: Lato;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+
+color: #F06C64;
+
+
+
+/* ABOUT */
+
+
+position: absolute;
+width: 42px;
+height: 14px;
+
+font-family: Lato;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 14px;
+
+color: #FFFFFF;
+
+
+
+/* SINGOLO */
+
+
+position: absolute;
+width: 106px;
+height: 29px;
+
+font-family: Lato;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+
+
+
+/* Our Services */
+
+
+position: absolute;
+width: 170px;
+height: 36px;
+
+font-family: Lato;
+font-style: normal;
+font-weight: bold;
+font-size: 30px;
+line-height: 36px;
+/* identical to box height */
+
+
+color: #666D89;
+
+
+
+/* Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum. Duis mollis, non commodo luctus, nisi erat portitor ligula, eget lacinia odio sem nec elit. Fusce, dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh. */
+
+
+position: absolute;
+width: 933px;
+height: 52px;
+
+font-family: Lato;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+letter-spacing: -0.01em;
+
+color: #767E9E;
+
+
+
+/* Custom Design */
+
+
+position: absolute;
+width: 122px;
+height: 22px;
+
+font-family: Lato;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+
+
+color: #666D89;
+
+
+
+/* Responsive Layout */
+
+
+position: absolute;
+width: 150px;
+height: 22px;
+
+font-family: Lato;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+
+
+color: #666D89;
+
+
+
+/* 24/7 Support */
+
+
+position: absolute;
+width: 109px;
+height: 22px;
+
+font-family: Lato;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+
+
+color: #666D89;
+
+
+
+/* Innovative Ideas */
+
+
+position: absolute;
+width: 131px;
+height: 22px;
+
+font-family: Lato;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+
+
+color: #666D89;
+
+
+
+/* Love Is The Answer */
+
+
+position: absolute;
+width: 155px;
+height: 22px;
+
+font-family: Lato;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+
+
+color: #666D89;
+
+
+
+/* Feel Like A Star */
+
+
+position: absolute;
+width: 123px;
+height: 22px;
+
+font-family: Lato;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+
+
+color: #666D89;
+
+
+
+/* Curabitur vestibulum eget mauris quis laoreet. Phaseullus in quam laoreet, viverra lacus ut, ultrices velit. */
+
+
+position: absolute;
+width: 216px;
+height: 56px;
+
+font-family: Lato;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 14px;
+letter-spacing: 0.04em;
+
+color: #666D89;
+
+
+
+/* Quisque luctus, quam eget molestie com- modo, lacus purus cursus purus, nec retrum tellus dolor ir lorem. */
+
+
+position: absolute;
+width: 222px;
+height: 56px;
+
+font-family: Lato;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 14px;
+letter-spacing: 0.01em;
+
+color: #666D89;
+
+
+
+/* Sed porttitor placerat rhoncus. In at nunc tellus. Maecenas blandit nun ligula. Prae- sent elit leo. */
+
+
+position: absolute;
+width: 216px;
+height: 56px;
+
+font-family: Lato;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 14px;
+
+color: #666D89;
+
+
+
+/* Vivamus vel quam lacinia, tincidunt dui non, vehicula nisi. Nulla a sem erat. Pellen- tesque egestas venenatis lorem */
+
+
+position: absolute;
+width: 223px;
+height: 56px;
+
+font-family: Lato;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 14px;
+
+color: #666D89;
+
+
+
+/* Quisque hendrerit purus dapibus, ornare nibh vitae, viverra nibh. Fusce vitae aliquam tellus. */
+
+
+position: absolute;
+width: 216px;
+height: 56px;
+
+font-family: Lato;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 14px;
+text-align: justify;
+
+color: #666D89;
+
+
+
+/* Nulla sed nunc et tortor luctus faucibus. Morbi at aliquet turpis, et consequat felis. Quisque condimentum. */
+
+
+position: absolute;
+width: 218px;
+height: 56px;
+
+font-family: Lato;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 14px;
+text-align: justify;
+
+color: #666D89;
+
+
+
+/* Rectangle 2 */
+
+
+position: absolute;
+width: 1020px;
+height: 6px;
+
+background: #FFFFFF;
+
+
+/* yellow */
+
+
+position: absolute;
+width: 189px;
+height: 334px;
+
+background: url(singolo1.png);
+
+
+/* Innovative ideas */
+
+
+position: absolute;
+width: 59px;
+height: 59px;
+
+background: url(1.png);
+
+
+/* Responsive */
+
+
+position: absolute;
+width: 59px;
+height: 59px;
+
+background: url(singolo1.png);
+
+
+/* singolo1 5 */
+
+
+position: absolute;
+visibility: hidden;
+width: 1020px;
+height: 1195px;
+
+background: url(singolo1.png);
+
+
+/* Support */
+
+
+position: absolute;
+width: 59px;
+height: 59px;
+
+background: url(singolo1.png);
+
+
+/* Feel like a star */
+
+
+position: absolute;
+width: 60px;
+height: 60px;
+
+background: url(singolo1.png);
+
+
+/* Heart */
+
+
+position: absolute;
+width: 60px;
+height: 59px;
+
+background: url(singolo1.png);
+
+
+/* blue */
+
+
+position: absolute;
+width: 335px;
+height: 190px;
+
+background: url(singolo1 (1).png);
+
+
+/* 4 O */
+
+
+position: absolute;
+width: 3px;
+height: 3px;
+
+background: #C4C4C4;
+
+
+/* 3 O */
+
+
+position: absolute;
+width: 3px;
+height: 3px;
+
+background: #C4C4C4;
+
+
+/* 2 O */
+
+
+position: absolute;
+width: 3px;
+height: 3px;
+
+background: #C4C4C4;
+
+
+/* 1 O */
+
+
+position: absolute;
+width: 3px;
+height: 3px;
+
+background: #C4C4C4;
+
+
+/* Rectangle 3 */
+
+
+position: absolute;
+width: 1020px;
+height: 6px;
+
+background: #EA676B;
+
+
+/* Custom design */
+
+
+position: absolute;
+width: 59px;
+height: 59px;
+
+background: url(singolo1.png);
